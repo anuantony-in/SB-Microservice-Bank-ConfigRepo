@@ -1,0 +1,11 @@
+build:
+  version:  "1.0"
+
+accounts:
+  message: "Welcome to CA3MBank loans related prod APIs"
+  contactDetails:
+    name: "Cersei Lannister - Product Owner"
+    email: "cersei@ca3mbank.com"
+  onCallSupport:
+    - (333) 111-7890
+    - (333) 111-4560

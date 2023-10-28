@@ -1,0 +1,11 @@
+build:
+  version:  "3.0"
+
+accounts:
+  message: "Welcome to CA3MBank cards related local APIs"
+  contactDetails:
+    name: "Bran Stark - Developer"
+    email: "bran@ca3mbank.com"
+  onCallSupport:
+    - (777) 333-7890
+    - (777) 333-4560

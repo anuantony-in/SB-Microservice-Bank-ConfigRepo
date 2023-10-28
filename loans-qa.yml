@@ -1,0 +1,11 @@
+build:
+  version:  "2.0"
+
+accounts:
+  message: "Welcome to CA3MBank loans related QA APIs"
+  contactDetails:
+    name: "Jon Snow - QA Lead"
+    email: "jonsnow@ca3mbank.com"
+  onCallSupport:
+    - (555) 222-7890
+    - (555) 222-4560
