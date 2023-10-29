@@ -2,7 +2,7 @@ build:
   version:  "1.0"
 
 accounts:
-  message: "Welcome to CA3MBank accounts related prod-docker APIs"
+  message: "Welcome to CA3MBank accounts related prod-docker-2 APIs"
   contactDetails:
     name: "Cersei Lannister - Product Owner"
     email: "{cipher}19f018390e29a0edc0fb3ae2cbd3f3587c1cd27ac8732f8eac8a3ce7425a3bd03b709f4e682a04ab0bb105c7a2221bd4"
