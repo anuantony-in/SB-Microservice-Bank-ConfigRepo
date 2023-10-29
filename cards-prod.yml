@@ -2,7 +2,7 @@ build:
   version:  "1.0"
 
 cards:
-  message: "Welcome to CA3MBank cards related webhook APIs"
+  message: "Welcome to CA3MBank cards related prod APIs"
   contactDetails:
     name: "Cersei Lannister - Product Owner"
     email: "cersei@ca3mbank.com"
